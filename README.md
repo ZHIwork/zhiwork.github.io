@@ -1,2 +1,2 @@
-# ZHIwork.github.io
-This is the personal website from GitHub
+# zhiwork.github.io
+This is the personal website 
